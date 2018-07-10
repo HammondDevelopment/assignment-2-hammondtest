@@ -1,10 +1,8 @@
 def printHello():
-  # FILL ME IN
-  return
+  print("Hello")
 
 def printBye():
-  # FILL ME IN
-  return
+  print("Bye")
 
 printHello()
 printBye()
